@@ -17,7 +17,7 @@
 ----
 ### My favorite quote ###
 > "You’re braver than you believe, stronger than you seem, and smarter than you think."    --A.A. Milne
-<br/>
+
 ----
 
 ### My first program ###
