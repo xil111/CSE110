@@ -8,15 +8,11 @@
 
 ## Learn About Me Checklist ##
 - [ ] [quote](#My-favorite-quote)
-<br/>
 - [ ] [program](#My-first-program)
-<br/>
 - [ ] [gitHub](#my-github-link)
-<br/>
-- [ ] [cats](#My-favorite-quote)
-<br/>
-- [ ] [songs](#My-first-program)
-<br/>
+- [ ] [cats](#My-cats)
+- [ ] [songs](#Playlist)
+
 
 ----
 ### My favorite quote ###
